@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Bootstrap](http://getbootstrap.com) [![Build Status](https://secure.travis-ci.org/twbs/bootstrap.png)](http://travis-ci.org/twbs/bootstrap) [![devDependency Status](https://david-dm.org/twbs/bootstrap/dev-status.png)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
 
 Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
@@ -139,3 +140,9 @@ For more information on SemVer, please visit [http://semver.org/](http://semver.
 ## Copyright and license
 
 Copyright 2013 Twitter, Inc under [the Apache 2.0 license](LICENSE).
+=======
+sc2Mapvote
+==========
+
+This will be the project root for a responsive design mapvote program for use in Starcraft2 
+>>>>>>> 82bbbb31e10958dd815d6e9e968ac9b67c72457a
